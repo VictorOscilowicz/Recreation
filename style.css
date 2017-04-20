@@ -1,11 +1,16 @@
 header{
-  background-color: black;
-  height: 300px;
-  width: 1000px;
+  background-color:black;
+  height:300px;
+  width:1000px;
+}
+
+button{
+  width:100px;
+  height:50px;
 }
 
 body{
-  background-color: white;
+  background-color:white;
   height:1000px;
   width:500px;
 }
@@ -15,5 +20,7 @@ section{
 }
 
 footer{
-  background-color: white;
+  background-color:white;
+  height:300px;
+  width:1000;
 }
