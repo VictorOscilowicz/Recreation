@@ -5,12 +5,13 @@ header{
 }
 
 button{
-  width:100px;
-  height:50px;
+  width:400px;
+  height:400px;
+  font-size: 20px;
 }
 
 body{
-  background-color:white;
+  background-color:black;
   height:1000px;
   width:500px;
 }

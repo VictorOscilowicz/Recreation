@@ -1,8 +1,10 @@
+(function(){
+
 const doc= document;
-let buttons= doc.querySelectorAll();
+let buttons= doc.querySelectorAll("header buttons");
 
 for(let b=0;b<buttons.length;b++){
-  buttons[b].addEventListener("click",function()){
-    for()
+  buttons[b].addEventListener("click");
   }
-}
+
+)}
