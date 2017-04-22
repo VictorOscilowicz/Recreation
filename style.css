@@ -1,27 +1,40 @@
 header{
-  background-color:black;
-  height:300px;
+  margin:0px;
+  height:800px;
   width:1000px;
-}
-
-button{
-  width:400px;
-  height:400px;
-  font-size: 20px;
+  background-color:#000000;
 }
 
 body{
-  background-color:black;
-  height:1000px;
-  width:500px;
+  margin:0px;
+  height:1200px;
+  width:inherit;
 }
 
-section{
+#picture{
+    height:500px;
+    width:inherit;
+}
 
+#picture:hover{
+}
+
+#text1{
+    margin:30%;
+    height:250px;
+    width:inherit;
+    text-align:center;
+}
+
+#text2{
+    margin:25%;
+    height:200px;
+    width:inherit;
+    text-align:center;
 }
 
 footer{
-  background-color:white;
-  height:300px;
-  width:1000;
+  margin:0px;
+  height:700px;
+  width:inherit;
 }
