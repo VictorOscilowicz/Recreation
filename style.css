@@ -1,7 +1,7 @@
 header{
   margin:0px;
-  height:800px;
-  width:1000px;
+  height:300px;
+  width:auto;
   background-color:#000000;
 }
 
@@ -11,10 +11,16 @@ body{
   width:inherit;
 }
 
-#picture{
-    height:500px;
+#picture1{
+    height:200px;
     width:inherit;
+    float:center;
 }
+
+#picture2{
+    height:200px;
+    width:inherit;
+    float:center;
 
 #text1{
     margin:30%;
@@ -28,10 +34,11 @@ body{
     height:200px;
     width:inherit;
     text-align:center;
+    text-decoration-color:#FFFFFF;
 }
 
 footer{
   margin:0px;
-  height:700px;
-  width:inherit;
+  height:300px;
+  width:auto;
 }
